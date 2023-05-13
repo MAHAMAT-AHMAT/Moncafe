@@ -12,6 +12,7 @@ Le site web comprend plusieurs fonctionnalités, notamment :
 * Une page de commande pour permettre aux utilisateurs de commander des boissons à emporter
 * Un système de paiement en ligne pour faciliter les transactions
 * Un formulaire de contact pour permettre aux clients de poser des questions ou de fournir des commentaires.
+
 Ce site web de café est un excellent projet pour les développeurs débutants qui souhaitent améliorer leurs compétences en développement web et en création de bases de données. Vous pouvez facilement personnaliser le site web en ajoutant de nouvelles fonctionnalités ou en modifiant le design pour répondre à vos besoins.
 
 N'hésitez pas à cloner ce projet et à l'essayer par vous-même !
