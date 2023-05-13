@@ -2,7 +2,7 @@ Site web de café (Moncafe)
 
 Moncafe est un site web de café qui utilise la bibliothèque Bootstrap pour créer une interface utilisateur responsive et facile à utiliser. Les utilisateurs peuvent parcourir une collection de cafés, thés et boissons chaudes, trouver des informations sur les différents types de café et de thé, et commander des boissons à emporter.
 
-Le site web est construit en utilisant des technologies modernes telles que HTML5, CSS3, JavaScript, Bootstrap et une base de données pour stocker les informations sur les produits. Il est conçu pour être facilement navigable, esthétique et responsive pour les appareils mobiles.
+Le site web est construit en utilisant des technologies modernes telles que HTML5, CSS3, JavaScript et une base de données pour stocker les informations sur les produits. Il est conçu pour être facilement navigable, esthétique et responsive pour les appareils mobiles.
 
 Le site web comprend plusieurs fonctionnalités, notamment :
 
